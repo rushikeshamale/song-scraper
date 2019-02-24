@@ -8,7 +8,3 @@ This repository/project is intended for Educational Purposes ONLY. It is not int
 1. bs4
 2. requests
 3. os
-
-# Install Libraries
-1. pip install bs4
-2. pip install requests
